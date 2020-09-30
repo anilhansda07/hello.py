@@ -1,0 +1,4 @@
+#This project prints 'Hello, World!' on execution
+#The code is written in Python
+
+print('Hello, World!')
